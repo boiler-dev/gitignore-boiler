@@ -1,6 +1,6 @@
 .DS_Store
-.serverless
-boiler/
-dist/
-node_modules/
-worker/
+/.serverless
+/boiler
+/dist
+/node_modules
+/worker
